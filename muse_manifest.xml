@@ -1,0 +1,123 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ying-2000github.io" resolutions="1x" timestamp="1603047261032">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="114670448" ref="index"/>
+    <file name="check-your-new-clothes_.css" crc="76967185" ref="check-your-new-clothes!"/>
+    <file name="history-coverage.css" crc="377228403" ref="history-coverage"/>
+    <file name="personal-information-form.css" crc="4040003661" ref="personal-information-form"/>
+    <file name="ct.css" crc="124142241" ref="ct"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:personal-information-form:ct:check-your-new-clothes!:history-coverage"/>
+    <file name="museutils.js" crc="340535759" ref="index:personal-information-form:ct:check-your-new-clothes!:history-coverage"/>
+    <file name="whatinput.js" crc="86476730" ref="index:personal-information-form:ct:check-your-new-clothes!:history-coverage"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:personal-information-form:ct:check-your-new-clothes!:history-coverage"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:personal-information-form:ct:check-your-new-clothes!:history-coverage"/>
+    <file name="require.js" crc="7928878" ref="index:personal-information-form:ct:check-your-new-clothes!:history-coverage"/>
+    <file name="webpro.js" crc="4059564322" ref="personal-information-form:check-your-new-clothes!"/>
+    <file name="form_check.php" crc="4020933626" ref="personal-information-form"/>
+    <file name="form_throttle.php" crc="4259590256" ref="personal-information-form"/>
+    <file name="form_process.php" crc="37464564" ref="personal-information-form"/>
+    <file name="form-u2080.php" crc="53980606" ref="personal-information-form"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="ct:history-coverage"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="check-your-new-clothes!"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="check-your-new-clothes!"/>
+    <file name="touchswipe.js" crc="4075097462" ref="check-your-new-clothes!"/>
+  </folder>
+  <folder name="images">
+    <file name="u370-4.png" crc="250686529" ref="index"/>
+    <file name="未命名的作品 44-crop-u227.png" crc="3831577938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名的作品 45.png" crc="276984204" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u254-4.png" crc="4255994186" ref="index"/>
+    <file name="u270-4.png" crc="322873983" ref="index"/>
+    <file name="未命名的作品 46-crop-u1705.png" crc="63886252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名的作品 46-crop-u605.png" crc="63886252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u922-4.png" crc="446517626" ref="personal-information-form"/>
+    <file name="未命名的作品 46-crop-u925.png" crc="66644099" seo="true" ref="personal-information-form">
+      <caption webpage="personal-information-form" alt=""/>
+    </file>
+    <file name="未命名的作品 50.png" crc="3764925366" seo="true" ref="ct">
+      <caption webpage="ct" alt=""/>
+    </file>
+    <file name="未命名的作品 49.png" crc="510475959" seo="true" ref="ct">
+      <caption webpage="ct" alt=""/>
+    </file>
+    <file name="衣服海報(透明).png" crc="4268116012" seo="true" ref="ct">
+      <caption webpage="ct" alt=""/>
+    </file>
+    <file name="u2553-4.png" crc="66442023" ref="ct"/>
+    <file name="未命名的作品 51.png" crc="42151886" seo="true" ref="ct">
+      <caption webpage="ct" alt=""/>
+    </file>
+    <file name="please press the button-crop-u4140.png" crc="3836878843" seo="true" ref="check-your-new-clothes!">
+      <caption webpage="check-your-new-clothes!" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="check-your-new-clothes!"/>
+    <file name="press the button-crop-u4174.png" crc="4165471347" seo="true" ref="check-your-new-clothes!">
+      <caption webpage="check-your-new-clothes!" alt=""/>
+    </file>
+    <file name="check your clothes-crop-u4297.png" crc="142016343" seo="true" ref="check-your-new-clothes!">
+      <caption webpage="check-your-new-clothes!" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="check-your-new-clothes!"/>
+    <file name="u4328-4.png" crc="4235401156" ref="check-your-new-clothes!"/>
+    <file name="u2615-6.png" crc="59675814" ref="history-coverage"/>
+    <file name="報紙6-crop-u2664.png" crc="27760221" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="報紙7.png" crc="4144274437" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="報紙5-crop-u2694.png" crc="149753504" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="報紙2-crop-u2704.png" crc="3976574240" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="報紙1-crop-u2714.png" crc="289194654" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="2020.png" crc="31390856" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="2220.png" crc="4167954858" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="2420.png" crc="346021577" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="2520.png" crc="4227898565" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="2620.png" crc="4108972477" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="2820.png" crc="4137411175" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="now.png" crc="533663882" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="3020.png" crc="4151512171" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+    <file name="u3830-4.png" crc="66442023" ref="history-coverage"/>
+    <file name="u3844-4.png" crc="66442023" ref="history-coverage"/>
+    <file name="報紙3-crop-u2724.png" crc="4031203899" seo="true" ref="history-coverage">
+      <caption webpage="history-coverage" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4182864739" seo="true" mt="1603045240587" redirect="true"/>
+  <file name="personal-information-form.html" crc="159811063" seo="true" mt="1603044205807" redirect="true"/>
+  <file name="ct.html" crc="4232049386" seo="true" mt="1603038713979" redirect="true"/>
+  <file name="check-your-new-clothes!.html" crc="311556988" seo="true" mt="1603044917990" redirect="true"/>
+  <file name="history-coverage.html" crc="347551098" seo="true" mt="1603042309550" redirect="true"/>
+</manifest>
